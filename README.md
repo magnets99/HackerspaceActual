@@ -11,9 +11,13 @@ All of the code used in the hackerspace will be uploaded to a relevant repositor
 
 
 To help you decide where you need to go:
+
 The information is relevant to anyone: Our public facing website http://www.robodino.org
+
 The information is relevant to members: The Wiki on Github https://github.com/magnets99/HackerspaceActual/wiki
+
 The information is about an issue that needs to be addressed by the board: The Issue tracker on Github https://github.com/magnets99/HackerspaceActual/issues
+
 
 And everything else can be discussed on our mailing list!
 https://groups.google.com/forum/#!forum/sydney-hackspace
